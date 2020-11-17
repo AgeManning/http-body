@@ -27,4 +27,4 @@ categories = ["web-programming"]
 
 [dependencies]
 bytes = "0.6"
-http = "0.2"
+http = { git = "https://github.com/agemanning/http", branch = "lighthouse" }
